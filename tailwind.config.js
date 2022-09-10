@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily:{
-      signature:["Kaushan Script"],
+      signature:["Caveat"],
     },
   },
   plugins: [],
