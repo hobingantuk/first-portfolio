@@ -10,8 +10,8 @@ const Home = () => {
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-violet-400 drop-shadow-lg">
-            I'm Informatics Student
+          <h2 className="text-6xl md:text-8xl sm:text-7xl font-bold text-violet-400 drop-shadow-lg">
+            I'm Bagus Nugra
           </h2>
           <p className="text-gray-300 py-4 max-w-md">
             Currently Studying Web Programming Focusing On Backend using Laravel
